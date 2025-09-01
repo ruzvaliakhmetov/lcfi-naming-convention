@@ -121,7 +121,7 @@ This repository includes example Adobe Illustrator scripts that demonstrate the 
 > The scripts are illustrative and were initially generated with AI assistance.
 >   
 >   
-> [![Download ZIP JSX](https://img.shields.io/badge/Download%20ZIP-JSX-blue)](https://github.com/ruzvaliakhmetov/lcfi_naming_convention/raw/main/scripts/LCFI-scripts.zip)
+> [![Download ZIP JSX](https://img.shields.io/badge/Download%20ZIP-JSX-blue)](https://github.com/ruzvaliakhmetov/lcfi-naming-convention/raw/main/scripts/LCFI-scripts.zip)
 
 **Installation:**
 1. Place `.jsx` files into Illustrator’s `Scripts` folder.
@@ -137,8 +137,8 @@ A layered type family with implemented LCFI indexes is included for testing and 
 
 Fonts are distributed under the OFL; see [Licensing](#licensing).
 
-[![Download ZIP TTF](https://img.shields.io/badge/Download%20ZIP-TTF-blue)](https://github.com/ruzvaliakhmetov/lcfi_naming_convention/raw/main/fonts/ttf/RR-Skriver-Colour-TTF.zip)
-[![Download ZIP OTF](https://img.shields.io/badge/Download%20ZIP-OTF-green)](https://github.com/ruzvaliakhmetov/lcfi_naming_convention/raw/main/fonts/otf/RR-Skriver-Colour-OTF.zip)
+[![Download ZIP TTF](https://img.shields.io/badge/Download%20ZIP-TTF-blue)](https://github.com/ruzvaliakhmetov/lcfi-naming-convention/raw/main/fonts/ttf/RR-Skriver-Colour-TTF.zip)
+[![Download ZIP OTF](https://img.shields.io/badge/Download%20ZIP-OTF-green)](https://github.com/ruzvaliakhmetov/lcfi-naming-convention/raw/main/fonts/otf/RR-Skriver-Colour-OTF.zip)
 
 ---
 
